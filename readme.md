@@ -3,7 +3,7 @@ Static nginx site for CI/CD + Argo CD microchallenge
 
 
 # Screenshots:
-1.ArgoCD Screenshot
+1.Argo CD Screenshot
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4244120f-95c5-4418-9490-d68ab608484d" />
 
 2.Output Screenshots
